@@ -412,10 +412,6 @@ Las capturas deben corresponder a pruebas reales del proyecto.
 
 ---
 
-## 16. Consideraciones
 
-Este README describe la arquitectura y los procedimientos de ejecución del proyecto. Las características que dependen de la configuración efectiva de los servicios deben validarse mediante las pruebas y evidencias correspondientes.
-
-No publiques contraseñas, tokens ni archivos `.env` con credenciales en el repositorio.
 
 **Perfulandia – Desarrollo Cloud Native I.**
