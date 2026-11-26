@@ -1,0 +1,30 @@
+
+# Variables y secretos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Node / React
+node_modules/
+build/
+dist/
+npm-debug.log*
+
+# Java / Maven
+target/
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
